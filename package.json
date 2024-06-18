@@ -20,7 +20,7 @@
   "dependencies": {
     "app-info-parser": "^1.1.5",
     "cheerio": "^1.0.0-rc.12",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "express-fileupload": "^1.4.1",
     "kill-process-by-name": "^1.0.5",
     "node-fetch": "^2.7.0",
@@ -28,8 +28,8 @@
     "open": "^8.4.2",
     "portfinder": "^1.0.32",
     "semver": "^7.5.4",
-    "tar": "^6.2.0",
-    "ws": "^8.14.2"
+    "tar": "^6.2.1",
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "eslint": "^8.50.0",
